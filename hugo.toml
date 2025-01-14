@@ -1,3 +1,29 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://KIN325R.adrienbabet.com/"
+languageCode = "en-us"
+title = "325R"
+theme = "hextra"
+
+[module]
+ignoreFiles = ["themes/hextra/static/*"]
+
+[params]
+  [params.navbar]
+    displayTitle = true
+    displayLogo = true
+
+    [params.navbar.logo]
+      path = "custom-favicon.svg"
+      dark = "custom-favicon-dark.svg"
+      link = "/"
+      width = 40
+
+[[menu.main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 2
+
+[[menu.main]]
+name = "Search"
+weight = 3
+[menu.main.params]
+type = "search"
