@@ -11,6 +11,6 @@ Welcome to my KIN 320 Ex Phys site. More stuff will be here shortly.
 {{< pdf "pdf/CITI.pdf" >}}
 {{< /collapsed >}}
 
-{{< collapsed title="CITI" closed="true" >}}
+{{< collapsed title="PARQ" closed="true" >}}
 {{< pdf "pdf/PARQ.pdf" >}}
 {{< /collapsed >}}
