@@ -2,15 +2,18 @@
 date = '2025-01-06T11:09:26-07:00'
 draft = false
 title = 'KIN 320: Exercise Physiology'
+breadcrumbs = false
+[cascade]
+    type = 'docs'
 +++
 
 Welcome to my KIN 320 Ex Phys site. More stuff will be here shortly.  
 -- Adrien
 
-{{< collapsed title="CITI" closed="true" >}}
+{{< details-html title="CITI" closed="true" >}}
 {{< pdf "pdf/CITI.pdf" >}}
-{{< /collapsed >}}
+{{< /details-html >}}
 
-{{< collapsed title="PARQ" closed="true" >}}
+{{< details-html title="PARQ" closed="true" >}}
 {{< pdf "pdf/PARQ.pdf" >}}
-{{< /collapsed >}}
+{{< /details-html >}}
