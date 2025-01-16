@@ -14,6 +14,27 @@ weight = 1
 
 how do nodes of ranvier work?
 
+## Force production
+Almost always, more force is proced by more cross-bridges
+
+### Type I: slow twitch
+less crossbridging
+
+### Type II: fast twitch
+more crossbridging
+
+### In general, IIx > IIa > I
+
+Strength can be substituted for work??
+
+## Force Velociy Curve
+
+## Length Tension Curve
+
+## Pennation Angle
+What is serial vs parallel muscle fibers?
+
+How does pennation angle adapt to exercise?
 
 {{< /md >}}
 

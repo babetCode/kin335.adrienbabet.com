@@ -16,6 +16,10 @@ ignoreFiles = ["themes/hextra/static/*"]
       dark = "custom-favicon-dark.svg"
       link = "/"
       width = 40
+  [params.footer]
+    displayPoweredBy = false
+    displayCopyright = false
+    poweredBy = "© 2025 adrienbabet.com"
 
 [[menu.main]]
 name = "Search"
