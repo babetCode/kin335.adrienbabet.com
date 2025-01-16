@@ -44,6 +44,11 @@ Why is there a difference between maximal force production fatigue vs. submaxima
 - ATP production
 - etc...
 
+## Specificity of training
+
+## Overload Principle
+- Applying periiodic stress to the muscles (1-2x/week)
+
 {{< /md >}}
 
 {{< /tab-html >}}
