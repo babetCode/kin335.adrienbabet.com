@@ -36,6 +36,14 @@ What is serial vs parallel muscle fibers?
 
 How does pennation angle adapt to exercise?
 
+Why is there a difference between maximal force production fatigue vs. submaximal fatigue?
+
+## Fatigue Components
+- central factors (spine and brain)
+- sleep deprivation
+- ATP production
+- etc...
+
 {{< /md >}}
 
 {{< /tab-html >}}
