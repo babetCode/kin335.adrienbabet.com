@@ -38,6 +38,12 @@ healthy response to appropriate insult (infection, laceratoin, sprain, etc...) h
 - repair & modeling
 - maturation
 
+**I**n  
+**A**cute  
+**D**estruction  
+**R**epair  
+**M**atures
+
 ### Chronic
 Unhealthy and complicated response
 
