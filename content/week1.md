@@ -36,6 +36,7 @@ healthy response to appropriate insult (infection, laceratoin, sprain, etc...) h
         - redness & heat (from increased circulation)/swelling (from more plasma)/pain (some from initial injury, increased sensitivity, some from swelling pressure), bruising (from initial injury tearing microvasculature, leading to blood pooling)
 - destruction
 - repair & modeling
+    - begins around 48 to 72 hours and typically lasts around 6 weeks
 - maturation
 
 **I**n  
