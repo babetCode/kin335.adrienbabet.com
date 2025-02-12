@@ -2,6 +2,7 @@
 date = '2025-02-03T09:03:33-07:00'
 draft = false
 title = 'Week4'
+weight = 4
 +++
 
 ## Soft Tissue Functions
@@ -25,10 +26,12 @@ occurs in "toe region" with no tension. This occurs in collagen dense tissues. W
 **Multi-level structure:** alter material properties of a tissue, add strenght, hard to create synthetically
 
 ```mermaid
-graph
-    A(collagen microfibril) --> B(microfibril);
+graph LR
+    A(collagen) --> B(microfibril);
     B --> C(fibril);
+    C --> D(fiber);
 ```
+
 
 **isotropy:** homogeneity in all directions
 
@@ -37,3 +40,20 @@ graph
 *why is collagen more organized in ligaments than tendons?*
 
 *Do collagen fibers have "cross-bridges"???*
+
+
+mermaid block test:
+
+```mermaid
+block-beta
+   columns 5
+   A space B space C
+   space space space space space
+   F space E space D
+
+   A --> B
+   B --> C
+   C --> D
+   D --> E
+   E --> F
+```

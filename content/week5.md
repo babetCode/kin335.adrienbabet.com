@@ -2,6 +2,7 @@
 date = '2025-02-10T09:03:11-07:00'
 draft = false
 title = 'Week5'
+weight = 5
 +++
 
 ## Tendons and ligaments
@@ -32,4 +33,10 @@ Higher proteoglycan content is found in tendons which experience more compressio
 Ligaments vs. Tendons
 both contain: collagen fibrils (type I), proteoglycan matrix, fibroblasts arranged in parallel rows.
 
-s
+```mermaid
+graph LR
+    A(collagen) --> B(microfibril);
+    B --> C(fibril);
+    C --> D(fiber);
+    D --> E(fasicle);
+```
