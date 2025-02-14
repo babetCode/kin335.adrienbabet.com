@@ -40,3 +40,15 @@ graph LR
     C --> D(fiber);
     D --> E(fasicle);
 ```
+
+## Feb 14
+
+Optimal tendon and ligament functoin occurs around 5-7% of resting length (could be more?)
+
+tendons can return majority of stored energy (approx. 90%)
+
+how does https://doi.org/10.1093/ptj/77.10.1090 affect stretching?
+
+https://bbrc.in/bbrc/2018July-Sep-Vol11-3-pdf/BBRC20_023.pdf
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10124737/ - 60 min per day
